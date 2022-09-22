@@ -1,6 +1,6 @@
 {
   "re3data": {
-    "repository": {
+    "repository": [{
       "re3data.orgIdentifier": "r3d100010051",
       "repositoryName": "Harvard Dataverse",
       "additionalName": "The Dataverse Project",
@@ -124,7 +124,7 @@
       "entryDate": "2012-07-30",
       "lastUpdate": "2021-09-03"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100000044",
       "repositoryName": "DRYAD",
       "repositoryURL": "https://datadryad.org/stash",
@@ -309,7 +309,7 @@
       "entryDate": "2013-02-06",
       "lastUpdate": "2021-09-03"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100010066",
       "repositoryName": "figshare",
       "repositoryURL": "http://figshare.com/",
@@ -458,7 +458,7 @@
       "entryDate": "2012-08-22",
       "lastUpdate": "2022-07-19"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100010478",
       "repositoryName": "GigaDB",
       "additionalName": "GigaScience Database",
@@ -616,7 +616,7 @@
       "entryDate": "2013-07-01",
       "lastUpdate": "2021-07-19"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100011868",
       "repositoryName": "Mendeley Data",
       "repositoryURL": "https://data.mendeley.com/",
@@ -759,7 +759,7 @@
       "entryDate": "2015-10-23",
       "lastUpdate": "2021-09-09"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100011137",
       "repositoryName": "Open Science Framework",
       "additionalName": "OSF",
@@ -899,7 +899,7 @@
       "entryDate": "2014-10-01",
       "lastUpdate": "2022-03-23"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100012823",
       "repositoryName": "Vivli",
       "additionalName": "A global clinical research data sharing platform",
@@ -1071,7 +1071,7 @@
       "entryDate": "2018-08-22",
       "lastUpdate": "2021-10-11"
     },
-    "repository": {
+    {
       "re3data.orgIdentifier": "r3d100010468",
       "repositoryName": "Zenodo",
       "additionalName": "Research. Shared",
@@ -1251,6 +1251,6 @@
       "remarks": "Zenodo is covered by Thomson Reuters Data Citation Index. Zenodo uses Altmetric metrics and provides impact information in the form of software citations (15.01.2019). Zenodo uses invenio repository software. OpenAIRE Orphan Record Repository got a make-over and was re-branded as ZENODO. Zenodo uses Invenio repository software. ZENODO was launched within the OpenAIREplus project as part of a European-wide research infrastructure. Easy upload and semi-automatic metadata completion by communication with existing online services such as DropBox for upload, Mendeley/ORCID/CrossRef/OpenAIRE for upload and pre-filling metadata.",
       "entryDate": "2013-06-13",
       "lastUpdate": "2019-01-15"
-    }
+    }]
   }
 }
