@@ -1,0 +1,1284 @@
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100010051",
+      "repositoryName": "Harvard Dataverse",
+      "additionalName": "The Dataverse Project",
+      "repositoryURL": "https://dataverse.harvard.edu/",
+      "repositoryIdentifier": [
+        "FAIRSharing_doi:10.25504/fairsharing.t2e1ss",
+        "RRID:SCR_001997",
+        "RRID:nif-0000-00316"
+      ],
+      "description": "The Harvard Dataverse is open to all scientific data from all disciplines worldwide. It includes the world's largest collection of social science research data. It is hosting data for projects, archives, researchers, journals, organizations, and institutions.",
+      "type": [
+        "disciplinary",
+        "institutional"
+      ],
+      "size": "4.749 dataverses,108.231 datasets,953.876 files",
+      "startDate": 2006,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "111 Social Sciences",
+        "112 Economics",
+        "12 Social and Behavioural Sciences",
+        "2 Life Sciences",
+        "201 Basic Biological and Medical Research",
+        "21 Biology",
+        "3 Natural Sciences",
+        "311 Astrophysics and Astronomy",
+        "32 Physics"
+      ],
+      "missionStatementURL": "https://dataverse.org/about",
+      "contentType": [
+        "Archived data",
+        "Databases",
+        "Raw data",
+        "Scientific and statistical data formats",
+        "Software applications",
+        "Source code",
+        "Standard office documents"
+      ],
+      "providerType": [
+        "dataProvider",
+        "serviceProvider"
+      ],
+      "keyword": [
+        "FAIR",
+        "automes research",
+        "demography",
+        "epidemiology",
+        "human societies",
+        "human behavior",
+        "multidisciplinary",
+        "social societies"
+      ],
+      "institution": {
+        "institutionName": "Harvard University, Institute for Quantitative Social Sciences",
+        "institutionAdditionalName": "IQSS",
+        "institutionCountry": "USA",
+        "responsibilityType": [
+          "funding",
+          "general",
+          "technical"
+        ],
+        "institutionType": "non-profit",
+        "institutionURL": "https://www.iq.harvard.edu/",
+        "responsibilityStartDate": 2006,
+        "responsibilityEndDate": "",
+        "institutionContact": "support@thedata.org"
+      },
+      "policy": [
+        {
+          "policyName": "API Terms of Use",
+          "policyURL": "https://dataverse.org/best-practices/harvard-api-tou"
+        },
+        {
+          "policyName": "Terms of use",
+          "policyURL": "https://dataverse.org/best-practices/harvard-dataverse-general-terms-use"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "databaseLicense": {
+        "databaseLicenseName": "Apache License 2.0",
+        "databaseLicenseURL": "https://www.apache.org/licenses/LICENSE-2.0.html"
+      },
+      "dataAccess": {
+        "dataAccessType": "open"
+      },
+      "dataLicense": {
+        "dataLicenseName": "CC0",
+        "dataLicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": "registration"
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Data deposit terms",
+        "dataUploadLicenseURL": "https://dataverse.org/best-practices/harvard-dataverse-general-terms-use"
+      },
+      "software": {
+        "softwareName": "DataVerse"
+      },
+      "versioning": "yes",
+      "api": [
+        "https://guides.dataverse.org/en/latest/api/sword.html",
+        "https://guides.dataverse.org/en/4.2/api/search.html",
+        "https://guides.dataverse.org/en/latest/api/native-api.html",
+        "https://guides.dataverse.org/en/latest/api/dataaccess.html"
+      ],
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "https://dataverse.org/best-practices/data-citation",
+      "enhancedPublication": "unknown",
+      "qualityManagement": "no",
+      "metadataStandard": {
+        "metadataStandardName": "DDI - Data Documentation Initiative",
+        "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative"
+      },
+      "remarks": "Harvard Dataverse is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. A collaboration with Harvard Library, Harvard University IT, and IQSS",
+      "entryDate": "2012-07-30",
+      "lastUpdate": "2021-09-03"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100000044",
+      "repositoryName": "DRYAD",
+      "repositoryURL": "https://datadryad.org/stash",
+      "repositoryIdentifier": [
+        "FAIRsharing_dOI:10.25504/FAIRsharing.wkggtx",
+        "OMICS_20678",
+        "ROR:00x6h5n95",
+        "RRID:SCR_005910",
+        "RRID:nlx_149486"
+      ],
+      "description": "Dryad is an international repository of data underlying peer-reviewed scientific and medical literature, particularly data for which no specialized repository exists. The content is considered to be integral to the published research. All material in Dryad is associated with a scholarly publication",
+      "repositoryContact": [
+        "curator@datadryad.org",
+        "help@datadryad.org"
+      ],
+      "type": "other",
+      "size": "40.098 data packages",
+      "startDate": 2008,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "12 Social and Behavioural Sciences",
+        "2 Life Sciences",
+        "201 Basic Biological and Medical Research",
+        "20105 General Genetics",
+        "20107 Bioinformatics and Theoretical Biology",
+        "202 Plant Sciences",
+        "20202 Plant Ecology and Ecosystem Analysis",
+        "203 Zoology",
+        "20302 Evolution, Anthropology",
+        "20305 Biochemistry and Animal Physiology",
+        "204 Microbiology, Virology and Immunology",
+        "20402 Microbial Ecology and Applied Microbiology",
+        "20404 Virology",
+        "207 Agriculture, Forestry, Horticulture and Veterinary Medicine",
+        "21 Biology",
+        "22 Medicine",
+        "23 Agriculture, Forestry, Horticulture and Veterinary Medicine",
+        "3 Natural Sciences",
+        "314 Geology and Palaeontology",
+        "34 Geosciences (including Geography)"
+      ],
+      "missionStatementURL": "https://datadryad.org/stash/our_mission#community",
+      "contentType": [
+        "Plain text",
+        "Scientific and statistical data formats",
+        "Software applications",
+        "Source code",
+        "Standard office documents",
+        "Structured text",
+        "other"
+      ],
+      "providerType": [
+        "dataProvider",
+        "serviceProvider"
+      ],
+      "keyword": [
+        "FAIR",
+        "biodiversity",
+        "interdisciplinary",
+        "scientific and medical publications"
+      ],
+      "institution": [
+        {
+          "institutionName": "California Digital Library",
+          "institutionAdditionalName": "CDL",
+          "institutionCountry": "USA",
+          "responsibilityType": "general",
+          "institutionType": "non-profit",
+          "institutionURL": "https://cdlib.org/",
+          "institutionIdentifier": "ROR:03yrm5c26",
+          "responsibilityStartDate": 2018,
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "Dryad",
+          "institutionCountry": "AAA",
+          "responsibilityType": "general",
+          "institutionType": "non-profit",
+          "institutionURL": "https://datadryad.org/stash/our_community",
+          "institutionIdentifier": "ROR:00x6h5n95",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "director@datadryad.org"
+        },
+        {
+          "institutionName": "National Science Foundation",
+          "institutionAdditionalName": "NSF",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://www.nsf.gov/",
+          "institutionIdentifier": "ROR:021nxhr62",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        }
+      ],
+      "policy": [
+        {
+          "policyName": "Our community",
+          "policyURL": "https://datadryad.org/stash/our_community#institutional"
+        },
+        {
+          "policyName": "Publication policy",
+          "policyURL": "https://datadryad.org/stash/terms#publication"
+        },
+        {
+          "policyName": "Terms of Service",
+          "policyURL": "https://datadryad.org/stash/terms"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "databaseLicense": {
+        "databaseLicenseName": "CC0",
+        "databaseLicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataAccess": [
+        {
+          "dataAccessType": "embargoed"
+        },
+        {
+          "dataAccessType": "open"
+        }
+      ],
+      "dataLicense": [
+        {
+          "dataLicenseName": "CC0",
+          "dataLicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+          "dataLicenseName": "other",
+          "dataLicenseURL": "https://datadryad.org/stash/faq#searching"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": [
+          "feeRequired",
+          "registration"
+        ]
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Depositing data to Dryad",
+        "dataUploadLicenseURL": "https://datadryad.org/stash/faq#depositing-acceptable-data"
+      },
+      "software": {
+        "softwareName": "DSpace"
+      },
+      "versioning": "yes",
+      "api": [
+        "https://v1.datadryad.org/oai/request?",
+        "https://datadryad.org/api/v2/docs/",
+        "https://github.com/CDL-Dryad/dryad-app/blob/main/documentation/apis/submission.md"
+      ],
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "https://datadryad.org/stash/faq#cite",
+      "aidSystem": "ORCID",
+      "enhancedPublication": "yes",
+      "qualityManagement": "yes",
+      "metadataStandard": [
+        {
+          "metadataStandardName": "DataCite Metadata Schema",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema"
+        },
+        {
+          "metadataStandardName": "Dublin Core",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/dublin-core"
+        },
+        {
+          "metadataStandardName": "OAI-ORE - Open Archives Initiative Object Reuse and Exchange",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange"
+        },
+        {
+          "metadataStandardName": "RDF Data Cube Vocabulary",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary"
+        }
+      ],
+      "remarks": "Dryad is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. Dryad is a nonprofit organization, governed by its member organizations, including journals, publishers, scientific societies, funding agencies, and other stakeholders, and an international repository of data underlying scientific and medical publications. For more information see https://datadryad.org/stash/our_membership",
+      "entryDate": "2013-02-06",
+      "lastUpdate": "2021-09-03"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100010066",
+      "repositoryName": "figshare",
+      "repositoryURL": "http://figshare.com/",
+      "repositoryIdentifier": [
+        "FAIRsharing_doi:10.25504/FAIRsharing.drtwnh",
+        "RRID:SCR_004328",
+        "RRID:nlx_34569"
+      ],
+      "description": "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. figshare+ repository allows figshare users to share larger datasets, over 20GB up to many TBs, see: https://plus.figshare.com/",
+      "repositoryContact": [
+        "http://figshare.com/contact",
+        "info@figshare.com"
+      ],
+      "type": "other",
+      "size": "",
+      "startDate": 2011,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "2 Life Sciences",
+        "3 Natural Sciences",
+        "4 Engineering Sciences"
+      ],
+      "missionStatementURL": "http://figshare.com/about",
+      "contentType": [
+        "Archived data",
+        "Audiovisual data",
+        "Images",
+        "Plain text",
+        "Raw data",
+        "Scientific and statistical data formats",
+        "Source code",
+        "Standard office documents",
+        "Structured graphics"
+      ],
+      "providerType": [
+        "dataProvider",
+        "serviceProvider"
+      ],
+      "keyword": [
+        "FAIR",
+        "data collection platform",
+        "multidisciplinary"
+      ],
+      "institution": {
+        "institutionName": "Digital Science",
+        "institutionCountry": "AAA",
+        "responsibilityType": [
+          "general",
+          "technical"
+        ],
+        "institutionType": "commercial",
+        "institutionURL": "http://www.digital-science.com/",
+        "responsibilityStartDate": 2011,
+        "responsibilityEndDate": "",
+        "institutionContact": "http://figshare.com/contact"
+      },
+      "policy": [
+        {
+          "policyName": "COPE principles of transparency and best practice in scholarly publishing",
+          "policyURL": "http://publicationethics.org/files/Principles%20of%20Transparency%20and%20Best%20Practice%20in%20Scholarly%20Publishing_0.pdf"
+        },
+        {
+          "policyName": "Privacy Policy",
+          "policyURL": "http://figshare.com/privacy"
+        },
+        {
+          "policyName": "Using figshare",
+          "policyURL": "https://knowledge.figshare.com/"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "databaseLicense": {
+        "databaseLicenseName": "CC",
+        "databaseLicenseURL": "http://creativecommons.org/licenses/"
+      },
+      "dataAccess": [
+        {
+          "dataAccessType": "embargoed"
+        },
+        {
+          "dataAccessType": "open"
+        }
+      ],
+      "dataLicense": [
+        {
+          "dataLicenseName": "Apache License 2.0",
+          "dataLicenseURL": "http://www.apache.org/licenses/"
+        },
+        {
+          "dataLicenseName": "BSD",
+          "dataLicenseURL": "https://opensource.org/licenses/BSD-3-Clause"
+        },
+        {
+          "dataLicenseName": "CC",
+          "dataLicenseURL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "dataLicenseName": "CC0",
+          "dataLicenseURL": "http://creativecommons.org/licenses/"
+        },
+        {
+          "dataLicenseName": "other",
+          "dataLicenseURL": "http://opensource.org/licenses/MIT"
+        },
+        {
+          "dataLicenseName": "other",
+          "dataLicenseURL": "https://www.gnu.org/licenses/quick-guide-gplv3.html"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": [
+          "feeRequired",
+          "registration"
+        ]
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Terms and conditions",
+        "dataUploadLicenseURL": "http://figshare.com/terms"
+      },
+      "software": {
+        "softwareName": "other"
+      },
+      "versioning": "yes",
+      "api": "https://api.figshare.com/v2/oai",
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "https://knowledge.figshare.com/articles/item/how-to-share-cite-or-embed-my-data",
+      "aidSystem": "ORCID",
+      "enhancedPublication": "yes",
+      "qualityManagement": "yes",
+      "metadataStandard": [
+        {
+          "metadataStandardName": "DataCite Metadata Schema",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema"
+        },
+        {
+          "metadataStandardName": "Dublin Core",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/dublin-core"
+        }
+      ],
+      "remarks": "is covered by Elsevier. figshare is covered by Thomson Reuters Data Citation Index. figshare is partner of the Reproducibility Initiative. figshare uses Altmetric metrics.",
+      "entryDate": "2012-08-22",
+      "lastUpdate": "2022-07-19"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100010478",
+      "repositoryName": "GigaDB",
+      "additionalName": "GigaScience Database",
+      "repositoryURL": "http://gigadb.org/",
+      "repositoryIdentifier": [
+        "FAIRsharing_doi:10.25504/FAIRsharing.rcbwsf",
+        "RRID:SCR_004002",
+        "RRID:nlx_158413"
+      ],
+      "description": "GigaDB primarily serves as a repository to host data and tools associated with articles published by GigaScience Press; GigaScience and GigaByte (both are online, open-access journals). GigaDB defines a dataset as a group of files (e.g., sequencing data, analyses, imaging files, software programs) that are related to and support a unit-of-work (article or study). GigaDB allows the integration of manuscript publication with supporting data and tools.",
+      "repositoryContact": "database@gigasciencejournal.com",
+      "type": "disciplinary",
+      "size": "2068 datasets",
+      "startDate": 2012,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "2 Life Sciences",
+        "201 Basic Biological and Medical Research",
+        "202 Plant Sciences",
+        "20207 Plant Genetics",
+        "203 Zoology",
+        "20306 Animal Genetics, Cell and Developmental Biology",
+        "204 Microbiology, Virology and Immunology",
+        "20401 Metabolism, Biochemistry and Genetics of Microorganisms",
+        "205 Medicine",
+        "20503 Human Genetics",
+        "206 Neurosciences",
+        "21 Biology",
+        "22 Medicine",
+        "4 Engineering Sciences",
+        "409 Computer Science",
+        "40902 Software Technology",
+        "44 Computer Science, Electrical and System Engineering"
+      ],
+      "missionStatementURL": "http://gigadb.org/site/term",
+      "contentType": [
+        "Archived data",
+        "Audiovisual data",
+        "Images",
+        "Images",
+        "Plain text",
+        "Raw data",
+        "Scientific and statistical data formats",
+        "Source code",
+        "other"
+      ],
+      "providerType": "dataProvider",
+      "keyword": [
+        "CT data",
+        "FAIR",
+        "MRI image data",
+        "biocuration",
+        "biodiversity",
+        "biology",
+        "biomedical sciences",
+        "biomedicine",
+        "data publishing",
+        "genomics",
+        "human genetics",
+        "microscopy data",
+        "optical imaging",
+        "transcriptome sequence"
+      ],
+      "institution": [
+        {
+          "institutionName": "Beijing Genomics Institute",
+          "institutionAdditionalName": "BGI",
+          "institutionCountry": "CHN",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "http://www.genomics.cn/en/index",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "China National Genebank",
+          "institutionAdditionalName": [
+            "CNGB",
+            "国家基因库大鹏总部"
+          ],
+          "institutionCountry": "HKG",
+          "responsibilityType": "technical",
+          "institutionType": "commercial",
+          "institutionURL": "https://www.cngb.org/#",
+          "institutionIdentifier": "ROR:03n9hr695",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "GigaScience Press",
+          "institutionCountry": "HKG",
+          "responsibilityType": [
+            "general",
+            "technical"
+          ],
+          "institutionType": "non-profit",
+          "institutionURL": "https://gigasciencepress.com/",
+          "institutionIdentifier": "ISNI:0000 0004 7882 355X",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "editorial@gigasciencejournal.com"
+        }
+      ],
+      "policy": {
+        "policyName": "Terms of Use",
+        "policyURL": "http://gigadb.org/site/term"
+      },
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "dataAccess": {
+        "dataAccessType": "open"
+      },
+      "dataLicense": [
+        {
+          "dataLicenseName": "CC",
+          "dataLicenseURL": "https://creativecommons.org/share-your-work/public-domain/cc0"
+        },
+        {
+          "dataLicenseName": "Public Domain",
+          "dataLicenseURL": "http://gigadb.org/site/term"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": "other"
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Submission Guidelines",
+        "dataUploadLicenseURL": "http://gigadb.org/site/guide"
+      },
+      "software": {
+        "softwareName": "other"
+      },
+      "versioning": "",
+      "api": "http://gigadb.org/site/help#0.1_API",
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "http://gigadb.org/site/about",
+      "aidSystem": "ORCID",
+      "enhancedPublication": "yes",
+      "qualityManagement": "yes",
+      "metadataStandard": [
+        {
+          "metadataStandardName": "DataCite Metadata Schema",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema"
+        },
+        {
+          "metadataStandardName": "ISA-Tab",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/isa-tab"
+        }
+      ],
+      "syndication": "http://gigadb.org/rss/latest",
+      "remarks": "GigaDB is covered by Thomson Reuters Data Citation Index. GigaScience is an online, open-access journal that includes, as part of its publishing activities, the database GigaDB. GigaScience is co-published in collaboration between BGI and Oxford University Press, to meet the needs of a new generation of biological and biomedical research as it enters the era of “big-data.",
+      "entryDate": "2013-07-01",
+      "lastUpdate": "2021-07-19"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100011868",
+      "repositoryName": "Mendeley Data",
+      "repositoryURL": "https://data.mendeley.com/",
+      "repositoryIdentifier": [
+        "FAIRsharing_doi:10.25504/FAIRsharing.3epmpp",
+        "RRID:SCR_015671"
+      ],
+      "description": "For datasets big and small; Store your research data online. Quickly and easily upload files of any type and we will host your research data for you. Your experimental research data will have a permanent home on the web that you can refer to.",
+      "repositoryContact": "https://service.elsevier.com/app/contact/supporthub/mendeley/",
+      "type": "other",
+      "size": "",
+      "startDate": 2015,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "2 Life Sciences",
+        "3 Natural Sciences",
+        "4 Engineering Sciences"
+      ],
+      "missionStatementURL": "https://data.mendeley.com/mission",
+      "contentType": [
+        "Configuration data",
+        "Plain text",
+        "Scientific and statistical data formats",
+        "Software applications",
+        "Standard office documents",
+        "Structured text",
+        "other"
+      ],
+      "providerType": "dataProvider",
+      "keyword": [
+        "FAIR",
+        "data collection platform",
+        "multidisciplinary"
+      ],
+      "institution": [
+        {
+          "institutionName": "Elsevier Inc",
+          "institutionCountry": "NLD",
+          "responsibilityType": "general",
+          "institutionType": "commercial",
+          "institutionURL": "https://www.elsevier.com/",
+          "institutionIdentifier": [
+            "ROR:02scfj030",
+            "RRID:SCR_013811"
+          ],
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "https://www.elsevier.com/contact"
+        },
+        {
+          "institutionName": "Mendeley Inc.",
+          "institutionCountry": "NLD",
+          "responsibilityType": [
+            "general",
+            "technical"
+          ],
+          "institutionType": "commercial",
+          "institutionURL": "https://www.mendeley.com/",
+          "institutionIdentifier": [
+            "ROR:01t2a8a42",
+            "RRID:SCR_002750",
+            "RRID:nif-0000-24120"
+          ],
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "https://www.mendeley.com/contact-us/"
+        }
+      ],
+      "policy": [
+        {
+          "policyName": "Copyright and Intellectual Property Policy",
+          "policyURL": "https://www.mendeley.com/terms/copyright"
+        },
+        {
+          "policyName": "Elsevier Terms and Conditions",
+          "policyURL": "https://www.elsevier.com/legal/elsevier-website-terms-and-conditions"
+        },
+        {
+          "policyName": "Implementation of the CoreTrustSeal",
+          "policyURL": "https://www.coretrustseal.org/wp-content/uploads/2017/10/pdf.pdf"
+        },
+        {
+          "policyName": "Mendeley terms of use",
+          "policyURL": "https://www.mendeley.com/terms/"
+        },
+        {
+          "policyName": "Terms of Service applicable to governmental users/members",
+          "policyURL": "https://www.mendeley.com/terms-governmental-amendment/"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "dataAccess": [
+        {
+          "dataAccessType": "closed"
+        },
+        {
+          "dataAccessType": "open"
+        },
+        {
+          "dataAccessType": "restricted",
+          "dataAccessRestriction": "registration"
+        }
+      ],
+      "dataLicense": [
+        {
+          "dataLicenseName": "CC",
+          "dataLicenseURL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "dataLicenseName": "CC0",
+          "dataLicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": "registration"
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Who owns and controls my data?",
+        "dataUploadLicenseURL": "https://data.mendeley.com/faq"
+      },
+      "software": {
+        "softwareName": "other"
+      },
+      "versioning": "yes",
+      "api": "https://api.mendeley.com/apidocs/docs",
+      "pidSystem": [
+        "ARK",
+        "DOI"
+      ],
+      "citationGuidelineURL": "",
+      "enhancedPublication": "yes",
+      "qualityManagement": "yes",
+      "certificate": "other",
+      "remarks": "is covered by Elsevier. Mendeley Data is covered by Clarivate Data Citation Index.",
+      "entryDate": "2015-10-23",
+      "lastUpdate": "2021-09-09"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100011137",
+      "repositoryName": "Open Science Framework",
+      "additionalName": "OSF",
+      "repositoryURL": "https://osf.io/",
+      "repositoryIdentifier": [
+        "FAIRsharing_doi:10.25504/FAIRsharing.g4z879",
+        "RRID:SCR_003238",
+        "RRID:nlx_157292"
+      ],
+      "description": "The Open Science Framework (OSF) is part network of research materials, part version control system, and part collaboration software. The purpose of the software is to support the scientist's workflow and help increase the alignment between scientific values and scientific practices. Document and archive studies. Move the organization and management of study materials from the desktop into the cloud. Labs can organize, share, and archive study materials among team members. Web-based project management reduces the likelihood of losing study materials due to computer malfunction, changing personnel, or just forgetting where you put the damn thing. Share and find materials. With a click, make study materials public so that other researchers can find, use and cite them. Find materials by other researchers to avoid reinventing something that already exists. Detail individual contribution. Assign citable, contributor credit to any research material - tools, analysis scripts, methods, measures, data. Increase transparency. Make as much of the scientific workflow public as desired - as it is developed or after publication of reports. Find public projects here. Registration. Registering materials can certify what was done in advance of data analysis, or confirm the exact state of the project at important points of the lifecycle such as manuscript submission or at the onset of data collection. Discover public registrations here. Manage scientific workflow. A structured, flexible system can provide efficiency gain to workflow and clarity to project objectives, as pictured.",
+      "repositoryContact": "contact@osf.io",
+      "type": "other",
+      "size": "",
+      "startDate": 2013,
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "112 Economics",
+        "12 Social and Behavioural Sciences",
+        "2 Life Sciences",
+        "204 Microbiology, Virology and Immunology",
+        "207 Agriculture, Forestry, Horticulture and Veterinary Medicine",
+        "21 Biology",
+        "22 Medicine",
+        "23 Agriculture, Forestry, Horticulture and Veterinary Medicine",
+        "3 Natural Sciences",
+        "31 Chemistry",
+        "32 Physics",
+        "34 Geosciences (including Geography)",
+        "4 Engineering Sciences",
+        "44 Computer Science, Electrical and System Engineering"
+      ],
+      "missionStatementURL": "https://cos.io/about/mission/",
+      "contentType": [
+        "Plain text",
+        "Scientific and statistical data formats",
+        "Standard office documents",
+        "other"
+      ],
+      "providerType": "dataProvider",
+      "keyword": [
+        "archive",
+        "multidisciplinary",
+        "program management",
+        "workflow"
+      ],
+      "institution": [
+        {
+          "institutionName": "Center for Open Science",
+          "institutionAdditionalName": "COS",
+          "institutionCountry": "USA",
+          "responsibilityType": "general",
+          "institutionType": "non-profit",
+          "institutionURL": "https://cos.io/",
+          "institutionIdentifier": [
+            "ROR:05d5mza29",
+            "RRID:SCR_003239",
+            "RRID:nlx_157293"
+          ],
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "Center for Open Science partners",
+          "institutionCountry": "USA",
+          "responsibilityType": [
+            "funding",
+            "general"
+          ],
+          "institutionType": "non-profit",
+          "institutionURL": "https://osf.io/institutions",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        }
+      ],
+      "policy": [
+        {
+          "policyName": "TOP Guidelines",
+          "policyURL": "https://www.cos.io/initiatives/top-guidelines"
+        },
+        {
+          "policyName": "Terms of Use",
+          "policyURL": "https://github.com/CenterForOpenScience/cos.io/blob/master/TERMS_OF_USE.md"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "databaseLicense": {
+        "databaseLicenseName": "Apache License 2.0",
+        "databaseLicenseURL": "https://www.apache.org/licenses/"
+      },
+      "dataAccess": [
+        {
+          "dataAccessType": "closed"
+        },
+        {
+          "dataAccessType": "open"
+        },
+        {
+          "dataAccessType": "restricted",
+          "dataAccessRestriction": "registration"
+        }
+      ],
+      "dataLicense": [
+        {
+          "dataLicenseName": "CC",
+          "dataLicenseURL": "https://creativecommons.org/licenses/"
+        },
+        {
+          "dataLicenseName": "other",
+          "dataLicenseURL": "https://github.com/CenterForOpenScience/cos.io/blob/master/TERMS_OF_USE.md"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "restricted",
+        "dataUploadRestriction": "registration"
+      },
+      "software": {
+        "softwareName": "other"
+      },
+      "versioning": "yes",
+      "api": [
+        "https://github.com/structureddynamics/OSF-Web-Services-PHP-API",
+        "https://developer.osf.io/#"
+      ],
+      "pidSystem": [
+        "ARK",
+        "DOI"
+      ],
+      "citationGuidelineURL": "https://help.osf.io/hc/en-us/articles/360019931173-Sharing-data",
+      "aidSystem": "ORCID",
+      "enhancedPublication": "unknown",
+      "qualityManagement": "no",
+      "remarks": "is covered by Elsevier. OSF is covered by Clarivate Data Citation Index. more information about OSF: https://www.nitrc.org/projects/osf",
+      "entryDate": "2014-10-01",
+      "lastUpdate": "2022-03-23"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100012823",
+      "repositoryName": "Vivli",
+      "additionalName": "A global clinical research data sharing platform",
+      "repositoryURL": "https://vivli.org/",
+      "repositoryIdentifier": [
+        "FAIRsharing_doi:10.25504/FAIRsharing.uovQrT",
+        "OMICS_18399",
+        "RRID:SCR_018080"
+      ],
+      "description": "Vivli is a non-profit organization working to advance human health through the insights and discoveries gained by sharing and analyzing data. It is home to an independent global data-sharing and analytics platform which serves all elements of the international research community. The platform includes a data repository, in-depth search engine and cloud-based analytics, and harmonizes governance, policy and processes to make sharing data easier. Vivli acts as a neutral broker between data contributor and data user and the wider data sharing community.",
+      "repositoryContact": [
+        "contact@vivli.org",
+        "https://vivli.org/contact/"
+      ],
+      "type": "disciplinary",
+      "size": "6.200 clinical trials",
+      "startDate": "2018-07-19",
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "2 Life Sciences",
+        "205 Medicine",
+        "20502 Public Health, Health Services Research, Social Medicine",
+        "22 Medicine"
+      ],
+      "missionStatementURL": "https://vivli.org/about/overview/",
+      "contentType": [
+        "Plain text",
+        "Raw data",
+        "Scientific and statistical data formats",
+        "Software applications"
+      ],
+      "providerType": [
+        "dataProvider",
+        "serviceProvider"
+      ],
+      "keyword": [
+        "clinical trial",
+        "clinical trials",
+        "data discovery methods",
+        "health care",
+        "individual participant-level data (IPD)",
+        "medical treatments",
+        "patients",
+        "studies"
+      ],
+      "institution": [
+        {
+          "institutionName": "Arnold Ventures",
+          "institutionAdditionalName": "formerly: Laura and John Arnold Foundation",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://www.arnoldventures.org/",
+          "institutionIdentifier": "ROR:04hqxh742",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "https://www.arnoldventures.org/contact"
+        },
+        {
+          "institutionName": "Doris Duke Charitable Foundation",
+          "institutionAdditionalName": "DDCF",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://www.ddcf.org/",
+          "institutionIdentifier": "ROR:04n65rp89",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "Helmsley Charitable Trust",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://helmsleytrust.org/",
+          "institutionIdentifier": "ROR:011x6n313",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": [
+            "grants@helmsleytrust.org",
+            "https://helmsleytrust.org/contact/"
+          ]
+        },
+        {
+          "institutionName": "Lyda Hill Foundation",
+          "institutionAdditionalName": "LHF",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://lydahillfoundation.org/",
+          "institutionIdentifier": "ROR:032sf2845",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": ""
+        },
+        {
+          "institutionName": "Multi-Regional Clinical Trials",
+          "institutionAdditionalName": "MRCT Center",
+          "institutionCountry": "USA",
+          "responsibilityType": "technical",
+          "institutionType": "non-profit",
+          "institutionURL": "https://mrctcenter.org/",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": [
+            "https://mrctcenter.org/contact-mrct/",
+            "mrct@bwh.harvard.edu"
+          ]
+        },
+        {
+          "institutionName": "PhRMA",
+          "institutionAdditionalName": "Pharmaceutical Research and Manufacturers of America",
+          "institutionCountry": "USA",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://www.phrma.org/",
+          "institutionIdentifier": "ROR:01z88k350",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "https://www.phrma.org/contact-us"
+        }
+      ],
+      "policy": [
+        {
+          "policyName": "Additional policies",
+          "policyURL": "https://vivli.org/vivli-eea-disclosure/#personaldata"
+        },
+        {
+          "policyName": "Data use agreement",
+          "policyURL": "https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "dataAccess": {
+        "dataAccessType": "restricted",
+        "dataAccessRestriction": [
+          "other",
+          "registration"
+        ]
+      },
+      "dataLicense": {
+        "dataLicenseName": "other",
+        "dataLicenseURL": "https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf"
+      },
+      "dataUpload": [
+        {
+          "dataUploadType": "open"
+        },
+        {
+          "dataUploadType": "restricted",
+          "dataUploadRestriction": "feeRequired"
+        }
+      ],
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "How to share data",
+        "dataUploadLicenseURL": "https://vivli.org/about/share-data/"
+      },
+      "software": {
+        "softwareName": "unknown"
+      },
+      "versioning": "",
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf",
+      "enhancedPublication": "unknown",
+      "qualityManagement": "unknown",
+      "remarks": "Vivli is covered by Clarivate Data Citation Index. Vivli members: https://vivli.org/members/ourmembers/ . --- Vivli — adapted from the Greek “vivliothiki,” (library) and the Latin root “viv,” (life).",
+      "entryDate": "2018-08-22",
+      "lastUpdate": "2021-10-11"
+    }
+  }
+},
+{
+  "re3data": {
+    "repository": {
+      "re3data.orgIdentifier": "r3d100010468",
+      "repositoryName": "Zenodo",
+      "additionalName": "Research. Shared",
+      "repositoryURL": "https://zenodo.org/",
+      "repositoryIdentifier": [
+        "RRID:SCR_004129",
+        "RRID:nlx_158614"
+      ],
+      "description": "ZENODO builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results.",
+      "repositoryContact": [
+        "https://zenodo.org/contact",
+        "info@zenodo.org"
+      ],
+      "type": "other",
+      "size": "",
+      "startDate": "2013-05-08",
+      "endDate": "",
+      "repositoryLanguage": "eng",
+      "subject": [
+        "1 Humanities and Social Sciences",
+        "2 Life Sciences",
+        "3 Natural Sciences",
+        "4 Engineering Sciences"
+      ],
+      "missionStatementURL": "https://zenodo.org/",
+      "contentType": [
+        "Archived data",
+        "Audiovisual data",
+        "Images",
+        "Networkbased data",
+        "Plain text",
+        "Raw data",
+        "Scientific and statistical data formats",
+        "Source code",
+        "Standard office documents",
+        "Structured graphics",
+        "Structured text",
+        "other"
+      ],
+      "providerType": "dataProvider",
+      "keyword": [
+        "FAIR",
+        "multidisciplinary"
+      ],
+      "institution": [
+        {
+          "institutionName": "European Commission, Horizon 2020",
+          "institutionCountry": "EEC",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "https://ec.europa.eu/programmes/horizon2020",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "http://ec.europa.eu/research/index.cfm?pg=enquiries"
+        },
+        {
+          "institutionName": "European Commission, Research & Innovation, Seventh Framework Programm - FP7",
+          "institutionAdditionalName": "FP7",
+          "institutionCountry": "EEC",
+          "responsibilityType": "funding",
+          "institutionType": "non-profit",
+          "institutionURL": "http://ec.europa.eu/research/fp7/index_en.cfm",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "http://ec.europa.eu/research/index.cfm?pg=contacts&origin=tools-contact"
+        },
+        {
+          "institutionName": "European Organization for Nuclear Research",
+          "institutionAdditionalName": [
+            "CERN",
+            "Centre Européen pour la Recherche Nucléaire"
+          ],
+          "institutionCountry": "EEC",
+          "responsibilityType": [
+            "funding",
+            "general",
+            "technical"
+          ],
+          "institutionType": "non-profit",
+          "institutionURL": "http://home.cern/",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "http://zenodo.org/contact"
+        },
+        {
+          "institutionName": "OpenAIRE",
+          "institutionAdditionalName": "Open Access Infrastructure for Research in Europa",
+          "institutionCountry": "EEC",
+          "responsibilityType": [
+            "funding",
+            "general"
+          ],
+          "institutionType": "non-profit",
+          "institutionURL": "https://www.openaire.eu/",
+          "institutionIdentifier": "RRID:SCR_013740",
+          "responsibilityStartDate": "",
+          "responsibilityEndDate": "",
+          "institutionContact": "https://www.openaire.eu/contact-us"
+        }
+      ],
+      "policy": [
+        {
+          "policyName": "Policies",
+          "policyURL": "http://about.zenodo.org/policies/"
+        },
+        {
+          "policyName": "Terms of use",
+          "policyURL": "http://about.zenodo.org/terms/"
+        }
+      ],
+      "databaseAccess": {
+        "databaseAccessType": "open"
+      },
+      "databaseLicense": {
+        "databaseLicenseName": "CC0",
+        "databaseLicenseURL": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataAccess": [
+        {
+          "dataAccessType": "closed"
+        },
+        {
+          "dataAccessType": "embargoed"
+        },
+        {
+          "dataAccessType": "open"
+        },
+        {
+          "dataAccessType": "restricted",
+          "dataAccessRestriction": "registration"
+        }
+      ],
+      "dataLicense": [
+        {
+          "dataLicenseName": "CC",
+          "dataLicenseURL": "http://creativecommons.org/"
+        },
+        {
+          "dataLicenseName": "CC0",
+          "dataLicenseURL": "http://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+          "dataLicenseName": "other",
+          "dataLicenseURL": "http://about.zenodo.org/policies/"
+        }
+      ],
+      "dataUpload": {
+        "dataUploadType": "open"
+      },
+      "dataUploadLicense": {
+        "dataUploadLicenseName": "Policies",
+        "dataUploadLicenseURL": "http://about.zenodo.org/policies/"
+      },
+      "software": {
+        "softwareName": "other"
+      },
+      "versioning": "",
+      "api": [
+        "https://zenodo.org/oai2d",
+        "http://developers.zenodo.org/"
+      ],
+      "pidSystem": "DOI",
+      "citationGuidelineURL": "http://dx.doi.org/10.5281/zenodo.6943",
+      "aidSystem": "ORCID",
+      "enhancedPublication": "unknown",
+      "qualityManagement": "yes",
+      "metadataStandard": [
+        {
+          "metadataStandardName": "DataCite Metadata Schema",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema"
+        },
+        {
+          "metadataStandardName": "Dublin Core",
+          "metadataStandardURL": "http://www.dcc.ac.uk/resources/metadata-standards/dublin-core"
+        }
+      ],
+      "remarks": "Zenodo is covered by Thomson Reuters Data Citation Index. Zenodo uses Altmetric metrics and provides impact information in the form of software citations (15.01.2019). Zenodo uses invenio repository software. OpenAIRE Orphan Record Repository got a make-over and was re-branded as ZENODO. Zenodo uses Invenio repository software. ZENODO was launched within the OpenAIREplus project as part of a European-wide research infrastructure. Easy upload and semi-automatic metadata completion by communication with existing online services such as DropBox for upload, Mendeley/ORCID/CrossRef/OpenAIRE for upload and pre-filling metadata.",
+      "entryDate": "2013-06-13",
+      "lastUpdate": "2019-01-15"
+    }
+  }
+}
